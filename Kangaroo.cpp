@@ -1,6 +1,7 @@
 //Hackerrank Problem Solving Q: Easy : Kangaroo Problem 10 points
 //here you have to think about 2 cases one is kang1 is behind kang1
 //another is kang2 is behind kang1 and their jump distance
+//Try ur logic first dont look for answer directly :)
 
 #include<iostream>
 using namespace std;
