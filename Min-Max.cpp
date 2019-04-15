@@ -1,6 +1,7 @@
 
 //Hackerrank problem solving question named :Easy : Min-Max 10 points 
-//can also use #include <algorithm> for using sort element
+//we can also use <algorithm> header for using sort element
+//Try ur logic first dont look for answer directly :)
 #include<iostream>
 using namespace std;
 int main(){
