@@ -1,4 +1,6 @@
 //Hackerrank Problem Solving Q: Easy : Breaking The Records Problem 10 points
+//Name of this problem reminds me of song "Breaking The Habits" by LinkinPark ♥
+//Try ur logic first dont look for answer directly :)
 #include<iostream>
 using namespace std;
 int main(){
