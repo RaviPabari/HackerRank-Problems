@@ -1,3 +1,5 @@
+//Hackerrank Problem Solving Q: Easy :  Cats♥ And Mouse  10 points
+//Try ur logic first dont look for answer directly :)
 #include<iostream>
 #include<cstdlib>
 using namespace std;
