@@ -1,3 +1,6 @@
+//Hackerrank Problem Solving Q: Easy : #Staircase Problem 10 points
+//Try ur logic first dont look for answer directly :)
+
 #include<iostream>
 using namespace std;
 int main(){
