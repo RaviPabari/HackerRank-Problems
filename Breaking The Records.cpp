@@ -11,25 +11,17 @@ int main(){
 	for(i=0;i<n;i++){
 		cin >> a[i];
 	}
-
 	min = a[0];
 	max = a[0];
-
-		for(i=1;i<n;i++){
-		
+	for(i=1;i<n;i++){		
 		if(a[i]<min){
-			min=a[i];
+	        	min=a[i];
 			MIN++;		
 		}else if(a[i]>max){
 			max=a[i];
 			MAX++;
 		}
 	}
-	
 	cout << MAX << " "<< MIN;
-	
 	return 0;		
-} 
-
-
-
+}
