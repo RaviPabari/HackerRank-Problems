@@ -1,3 +1,4 @@
+//Hackerrank Problem Solving Q: Easy : Divisible Sum Pairs 10 points
 #include<iostream>
 using namespace std;
 int main(){
@@ -13,7 +14,7 @@ int main(){
         for(j=0;j<n && j!=i;j++){
            b= arr[j];
            sum = a + b;
-            if(sum%k==0){
+           if(sum%k==0){
                 count ++;
             }
         }
