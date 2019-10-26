@@ -8,7 +8,7 @@ int main(){
 	int A,O,s,t,m,n,Apl=0,Orng=0,app,org;
 	
 	cin>>s >> t >>A >>O >> n >> m;
-	
+	//created pull request for tshirt
 	for(int i=0;i<n;i++){
 		cin >> app;
 		if(A+app>=s && A+app<=t)Apl++;
