@@ -1,13 +1,9 @@
-//Hackerrank Problem Solving Q: Easy : Counting Valleys Problem 15 points
-
+//Hackerrank Problem Solving Q: Easy : Apple And Orange Problem 10 points
 #include<iostream>
 using namespace std;
-int main(){
-    int n,i;
-    cin >> n;
-    string str;
-    cin >> str;
-    int count=0,valleys=0;
+
+void countingValleys(int n,string str){
+	int i,count=0,valleys=0;
     for(i=0;i<n;i++){
         if(str[i]=='U'){
             count++;
@@ -20,5 +16,13 @@ int main(){
       }
     }
     cout << valleys << endl;
+}
+
+int main(){
+    int n;
+    cin >> n;
+    string str;
+    cin >> str;
+    countingValleys(n,str);
     return 0; 
 }
