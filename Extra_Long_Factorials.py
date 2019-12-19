@@ -6,8 +6,8 @@ Created on Thu Dec 19 13:03:41 2019
 
 @author: Ravi
 """
-#with the help of Dictionary we can solve this easily AF
-#ThankYou Python♥
+#with the help of Dictionary we can solve this easily AF in very less time
+
 def efficient_fact(n,d):
     if n in d:
         return d[n]
