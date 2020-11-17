@@ -1,4 +1,5 @@
 //Hackerrank Problem Solving : Easy : Angry Professor Problem 20 Points
+//Code By Ravi Pabari
 #include<iostream>
 using namespace std;
 #define for(i,n) for(int i=0;i<n;i++)
